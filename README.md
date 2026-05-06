@@ -211,6 +211,11 @@ Project website sederhana menggunakan framework Bootstrap 5.
 
 # 📘 UTS - PBW : To Do List App
 
+# 🔗 Preview Website
+
+## UTS - PBW
+👉 https://akwan-id.github.io/pbw-project/UTS%20-%20PBW/
+
 ## 📌 Deskripsi
 
 Project Ujian Tengah Semester berupa aplikasi To Do List berbasis web menggunakan HTML, CSS, Bootstrap, dan JavaScript.
