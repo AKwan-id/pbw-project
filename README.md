@@ -214,7 +214,7 @@ Project website sederhana menggunakan framework Bootstrap 5.
 # 🔗 Preview Website
 
 ## UTS - PBW
-👉 [Klik untuk melihat website](https://akwan-id.github.io/pbw-project/UTS%20-%20PBW/)
+[Klik untuk melihat website](https://akwan-id.github.io/pbw-project/UTS%20-%20PBW/)
 
 ## 📌 Deskripsi
 
