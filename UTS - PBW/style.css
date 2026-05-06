@@ -1,0 +1,17 @@
+body {
+  background-color: #f4f8ff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.card {
+  border-radius: 15px;
+}
+
+.table th {
+  white-space: nowrap;
+}
+
+.selesai {
+  text-decoration: line-through;
+  color: gray;
+}
