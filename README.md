@@ -240,8 +240,7 @@ Project Ujian Tengah Semester berupa aplikasi To Do List berbasis web menggunaka
 - JavaScript DOM
 - CRUD Sederhana
 - Event Listener
-- Manipulasi Data
-- Responsive Layout Bootstrap
+- Penggunaan Boostrap
 
 ---
 
@@ -251,7 +250,7 @@ Project Ujian Tengah Semester berupa aplikasi To Do List berbasis web menggunaka
 |---|---|
 | HTML5 | Struktur halaman web |
 | CSS3 | Styling halaman |
-| Bootstrap 5 | Responsive layout |
+| Bootstrap 5 | Tampilan Halaman |
 | JavaScript | Interaksi website |
 
 ---
