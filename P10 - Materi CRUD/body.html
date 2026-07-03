@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Semantic Tag</title>
+</head>
+<body onload="alert('Selamat datang di website saya')">
+    <h1>Semantic Tag</h1>
+    <div id="header">
+        Ini adalah header
+    </div>
+    <header>
+        Ini adalah header
+    </header>
+    <nav>
+        <ul id="menu">
+            <li><a href="#">Home</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+    <main>
+        <h2>Ini adalah main</h2>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptas, voluptate.</p>
+        <input type="text" name="angka" id="angka" placeholder="Masukkan angka">
+    </main>
+    <footer>
+        Dibuat oleh <a href="#">Rizky</a>
+    </footer>
+    <script>
+        var i = 0
+        i = "ABC"
+        i = 5.8
+        i = true
+        var j = 10
+        var k = 15
+        var hasil = j + k
+        console.log(hasil)
+        var angka = document.getElementById("angka").value
+        hasil = Number(angka) + j // hasilnya akan menjadi number karena angka diubah menjadi number
+        console.log(hasil)
+    </script>
+</body>
+</html>
