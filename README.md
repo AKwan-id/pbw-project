@@ -663,56 +663,56 @@ Jika menggunakan SMTP, isi `SMTP_HOST`, `SMTP_USERNAME`, `SMTP_PASSWORD`, dan pe
 
 ### Authentication
 
-- [ ] Administrator pertama dapat dibuat saat database masih kosong.
-- [ ] User dapat login dengan akun aktif.
-- [ ] User nonaktif tidak dapat login.
-- [ ] User dapat logout.
-- [ ] Session timeout berjalan sesuai konfigurasi.
+- [YA] Administrator pertama dapat dibuat saat database masih kosong.
+- [YA] User dapat login dengan akun aktif.
+- [YA] User nonaktif tidak dapat login.
+- [YA] User dapat logout.
+- [YA] Session timeout berjalan sesuai konfigurasi.
 
 ### Admin
 
-- [ ] Admin dapat membuka dashboard.
-- [ ] Admin dapat membuka Data User.
-- [ ] Admin dapat menambah user.
-- [ ] Admin dapat melihat detail user.
-- [ ] Admin dapat mengirim aktivasi user.
-- [ ] Admin dapat menonaktifkan atau membatalkan user sesuai status akun.
-- [ ] Admin dapat mengelola data proyek.
-- [ ] Admin dapat merevisi anggaran proyek.
-- [ ] Admin dapat melihat data progres.
-- [ ] Admin dapat mencetak laporan proyek.
+- [YA] Admin dapat membuka dashboard.
+- [YA] Admin dapat membuka Data User.
+- [YA] Admin dapat menambah user.
+- [YA] Admin dapat melihat detail user.
+- [YA] Admin dapat mengirim aktivasi user.
+- [YA] Admin dapat menonaktifkan atau membatalkan user sesuai status akun.
+- [YA] Admin dapat mengelola data proyek.
+- [YA] Admin dapat merevisi anggaran proyek.
+- [YA] Admin dapat melihat data progres.
+- [YA] Admin dapat mencetak laporan proyek.
 
 ### Petugas
 
-- [ ] Petugas dapat login.
-- [ ] Petugas tidak dapat membuka halaman khusus admin.
-- [ ] Petugas dapat melihat data proyek.
-- [ ] Petugas dapat menambah progres.
-- [ ] Petugas dapat mengedit progres miliknya sendiri selama belum terkunci.
-- [ ] Petugas dapat menghapus progres miliknya sendiri selama belum terkunci.
-- [ ] Petugas dapat mengunci atau membuka kunci progres miliknya sendiri.
+- [YA] Petugas dapat login.
+- [YA] Petugas tidak dapat membuka halaman khusus admin.
+- [YA] Petugas dapat melihat data proyek.
+- [YA] Petugas dapat menambah progres.
+- [YA] Petugas dapat mengedit progres miliknya sendiri selama belum terkunci.
+- [YA] Petugas dapat menghapus progres miliknya sendiri selama belum terkunci.
+- [YA] Petugas dapat mengunci atau membuka kunci progres miliknya sendiri.
 
 ### UI and Client-Side Behavior
 
-- [ ] Navbar dapat digunakan untuk berpindah halaman.
-- [ ] CSS tampil dengan benar.
-- [ ] Bootstrap CDN dapat dimuat.
-- [ ] JavaScript konfirmasi aksi berjalan.
-- [ ] Validasi persentase progres berjalan di sisi client.
+- [YA] Navbar dapat digunakan untuk berpindah halaman.
+- [YA] CSS tampil dengan benar.
+- [YA] Bootstrap CDN dapat dimuat.
+- [YA] JavaScript konfirmasi aksi berjalan.
+- [YA] Validasi persentase progres berjalan di sisi client.
 
 ## Deployment Checklist
 
 Sebelum aplikasi dipublikasikan, lakukan pemeriksaan berikut:
 
-- [ ] Pastikan repository tidak menyimpan password database hosting asli.
-- [ ] Pastikan repository tidak menyimpan password SMTP asli.
-- [ ] Gunakan kredensial database khusus untuk hosting.
-- [ ] Gunakan HTTPS pada domain live application.
-- [ ] Pastikan konfigurasi database hosting sudah sesuai.
-- [ ] Pastikan konfigurasi email sudah sesuai jika fitur email digunakan.
-- [ ] Gunakan akun demo khusus jika evaluator memerlukan akses login.
-- [ ] Jangan membagikan akun admin asli di README publik.
-- [ ] Uji login, logout, tambah, edit, hapus, dan cetak laporan pada environment online.
+- [YA] Pastikan repository tidak menyimpan password database hosting asli.
+- [YA] Pastikan repository tidak menyimpan password SMTP asli.
+- [YA] Gunakan kredensial database khusus untuk hosting.
+- [YA] Gunakan HTTPS pada domain live application.
+- [YA] Pastikan konfigurasi database hosting sudah sesuai.
+- [YA] Pastikan konfigurasi email sudah sesuai jika fitur email digunakan.
+- [YA] Gunakan akun demo khusus jika evaluator memerlukan akses login.
+- [YA] Jangan membagikan akun admin asli di README publik.
+- [YA] Uji login, logout, tambah, edit, hapus, dan cetak laporan pada environment online.
 
 ## Presentation Checklist
 
